@@ -111,6 +111,10 @@ http://你的Vercel部署完成后分配的域名或Vercel绑定自定域名/yy/
 ### 默认最高画质，浏览器打开并复制`(live.douyin.com/)xxxxxx`，只需要复制后面的xxxxx即可（可选flv和hls两种种流媒体传输方式，默认flv）：
 ```
 http://你的Vercel部署完成后分配的域名或Vercel绑定自定域名/douyin/xxxxx(?stream=hls)
+
+http://iptv-go-am.vercel.app/douyin/500239447548?stream=hls
+http://iptv-go-am.vercel.app/douyin/88495050545?stream=hls
+
 ```
 
 ## **BiliBili`(live.bilibili.com/)xxxxxx`：**
@@ -138,6 +142,10 @@ http://你的Vercel部署完成后分配的域名或Vercel绑定自定域名/dou
 ### 4，最后的代理链接示例：
 ```
 http://你的Vercel部署完成后分配的域名或Vercel绑定自定域名/bilibili/xxxxxx(?platform=h5&line=first&quality=10000)
+
+http://iptv-go-am.vercel.app/bilibili/27059141?platform=h5&line=first&quality=10000
+
+http://iptv-go-am.vercel.app/bilibili/23584459?platform=web&line=first&quality=10000
 ```
 
 ## **YouTube:**

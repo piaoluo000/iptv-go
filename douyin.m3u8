@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,测试1
+http://iptv-go-am.vercel.app/douyin/500239447548?stream=hls
+#EXTINF:-1,测试1
+http://iptv-go-am.vercel.app/douyin/88495050545?stream=hls
